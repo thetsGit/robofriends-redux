@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thetsGit/robofriends-redux/static/css/main.89eca019.css",
+    "main.js": "/thetsGit/robofriends-redux/static/js/main.25d324d0.js",
+    "service-worker.js": "/thetsGit/robofriends-redux/service-worker.js",
+    "static/media/SEGA.woff": "/thetsGit/robofriends-redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/thetsGit/robofriends-redux/index.html",
+    "main.89eca019.css.map": "/thetsGit/robofriends-redux/static/css/main.89eca019.css.map",
+    "main.25d324d0.js.map": "/thetsGit/robofriends-redux/static/js/main.25d324d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89eca019.css",
+    "static/js/main.25d324d0.js"
+  ]
+}
