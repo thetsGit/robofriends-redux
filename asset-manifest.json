@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thetsgit.github.io/robofriends-redux/static/css/main.4abe40ce.css",
-    "main.js": "/thetsgit.github.io/robofriends-redux/static/js/main.2d0a43e5.js",
-    "service-worker.js": "/thetsgit.github.io/robofriends-redux/service-worker.js",
-    "static/media/SEGA.woff": "/thetsgit.github.io/robofriends-redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/thetsgit.github.io/robofriends-redux/index.html",
-    "main.4abe40ce.css.map": "/thetsgit.github.io/robofriends-redux/static/css/main.4abe40ce.css.map",
-    "main.2d0a43e5.js.map": "/thetsgit.github.io/robofriends-redux/static/js/main.2d0a43e5.js.map"
+    "main.css": "/robofriends-redux/static/css/main.6e4100b5.css",
+    "main.js": "/robofriends-redux/static/js/main.0365f9dd.js",
+    "service-worker.js": "/robofriends-redux/service-worker.js",
+    "static/media/SEGA.woff": "/robofriends-redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriends-redux/index.html",
+    "main.6e4100b5.css.map": "/robofriends-redux/static/css/main.6e4100b5.css.map",
+    "main.0365f9dd.js.map": "/robofriends-redux/static/js/main.0365f9dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4abe40ce.css",
-    "static/js/main.2d0a43e5.js"
+    "static/css/main.6e4100b5.css",
+    "static/js/main.0365f9dd.js"
   ]
 }
